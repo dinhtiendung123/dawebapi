@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DA.Shared.ApplicationService/1.0.0": {
+        "dependencies": {
+          "DA.Auth.Dtos": "1.0.0",
+          "DA.Vehicle.Dtos": "1.0.0"
+        },
+        "runtime": {
+          "DA.Shared.ApplicationService.dll": {}
+        }
+      },
+      "DA.Auth.Dtos/1.0.0": {
+        "runtime": {
+          "DA.Auth.Dtos.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DA.Vehicle.Dtos/1.0.0": {
+        "runtime": {
+          "DA.Vehicle.Dtos.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DA.Shared.ApplicationService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DA.Auth.Dtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DA.Vehicle.Dtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

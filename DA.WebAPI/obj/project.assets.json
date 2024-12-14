@@ -1440,6 +1440,13 @@
           }
         }
       },
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.21.0": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.props": {},
+          "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets": {}
+        }
+      },
       "Microsoft.Win32.SystemEvents/6.0.0": {
         "type": "package",
         "compile": {
@@ -4888,6 +4895,86 @@
         "microsoft.sqlserver.server.nuspec"
       ]
     },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.21.0": {
+      "sha512": "8NudeHOE56YsY59HYY89akRMup8Ho+7Y3cADTGjajjWroXVU9RQai2nA6PfteB8AuzmRHZ5NZQB2BnWhQEul5g==",
+      "type": "package",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.21.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CHANGELOG.md",
+        "EULA.md",
+        "ThirdPartyNotices.txt",
+        "build/Container.props",
+        "build/Container.targets",
+        "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.props",
+        "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets",
+        "build/Rules/GeneralBrowseObject.xaml",
+        "build/Rules/cs-CZ/GeneralBrowseObject.xaml",
+        "build/Rules/de-DE/GeneralBrowseObject.xaml",
+        "build/Rules/es-ES/GeneralBrowseObject.xaml",
+        "build/Rules/fr-FR/GeneralBrowseObject.xaml",
+        "build/Rules/it-IT/GeneralBrowseObject.xaml",
+        "build/Rules/ja-JP/GeneralBrowseObject.xaml",
+        "build/Rules/ko-KR/GeneralBrowseObject.xaml",
+        "build/Rules/pl-PL/GeneralBrowseObject.xaml",
+        "build/Rules/pt-BR/GeneralBrowseObject.xaml",
+        "build/Rules/ru-RU/GeneralBrowseObject.xaml",
+        "build/Rules/tr-TR/GeneralBrowseObject.xaml",
+        "build/Rules/zh-CN/GeneralBrowseObject.xaml",
+        "build/Rules/zh-TW/GeneralBrowseObject.xaml",
+        "build/ToolsTarget.props",
+        "build/ToolsTarget.targets",
+        "icon.png",
+        "microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
+        "microsoft.visualstudio.azure.containers.tools.targets.nuspec",
+        "tools/Microsoft.VisualStudio.Containers.Tools.Common.dll",
+        "tools/Microsoft.VisualStudio.Containers.Tools.Shared.dll",
+        "tools/Microsoft.VisualStudio.Containers.Tools.Tasks.dll",
+        "tools/Newtonsoft.Json.dll",
+        "tools/System.Security.Principal.Windows.dll",
+        "tools/cs/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/cs/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/cs/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/de/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/de/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/de/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/es/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/es/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/es/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/fr/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/fr/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/fr/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/it/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/it/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/it/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/ja/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/ja/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/ja/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/ko/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/ko/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/ko/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/pl/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/pl/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/pl/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/pt-BR/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/pt-BR/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/pt-BR/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/ru/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/ru/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/ru/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/tr/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/tr/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/tr/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/zh-Hans/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/zh-Hans/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/zh-Hans/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll",
+        "tools/zh-Hant/Microsoft.VisualStudio.Containers.Tools.Common.resources.dll",
+        "tools/zh-Hant/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
+        "tools/zh-Hant/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll"
+      ]
+    },
     "Microsoft.Win32.SystemEvents/6.0.0": {
       "sha512": "hqTM5628jSsQiv+HGpiq3WKBl2c8v1KZfby2J6Pr7pEPlK9waPdgEO6b8A/+/xn/yZ9ulv8HuqK71ONy2tg67A==",
       "type": "package",
@@ -6209,34 +6296,30 @@
       "DA.Booking.Dtos >= 1.0.0",
       "DA.Shared.ApplicationService >= 1.0.0",
       "DA.Vehicle.ApplicationService >= 1.0.0",
-      "DA.Vehicle.Domain >= 1.0.0",
       "DA.Vehicle.Dtos >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.10",
       "Microsoft.EntityFrameworkCore >= 9.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.0",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.0",
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.21.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bop\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Dinh Tien Dung\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Doan\\DA.WebAPI\\DA.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\DA.WebAPI\\DA.WebAPI.csproj",
       "projectName": "DA.WebAPI",
-      "projectPath": "D:\\C#\\Doan\\DA.WebAPI\\DA.WebAPI.csproj",
-      "packagesPath": "C:\\Users\\Bop\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Doan\\DA.WebAPI\\obj\\",
+      "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\DA.WebAPI\\DA.WebAPI.csproj",
+      "packagesPath": "C:\\Users\\Dinh Tien Dung\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\DA.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Bop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Dinh Tien Dung\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6250,35 +6333,32 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj": {
-              "projectPath": "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj"
+            "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj": {
+              "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj"
             },
-            "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj": {
-              "projectPath": "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj"
+            "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj": {
+              "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj"
             },
-            "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj": {
-              "projectPath": "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj"
+            "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj": {
+              "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj"
             },
-            "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.ApplicationService\\DA.Booking.ApplicationService.csproj": {
-              "projectPath": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.ApplicationService\\DA.Booking.ApplicationService.csproj"
+            "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.ApplicationService\\DA.Booking.ApplicationService.csproj": {
+              "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.ApplicationService\\DA.Booking.ApplicationService.csproj"
             },
-            "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Domain\\DA.Booking.Domain.csproj": {
-              "projectPath": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Domain\\DA.Booking.Domain.csproj"
+            "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Domain\\DA.Booking.Domain.csproj": {
+              "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Domain\\DA.Booking.Domain.csproj"
             },
-            "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Dtos\\DA.Booking.Dtos.csproj": {
-              "projectPath": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Dtos\\DA.Booking.Dtos.csproj"
+            "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Dtos\\DA.Booking.Dtos.csproj": {
+              "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Dtos\\DA.Booking.Dtos.csproj"
             },
-            "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj": {
-              "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj"
+            "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj": {
+              "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj"
             },
-            "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj": {
-              "projectPath": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj"
+            "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj": {
+              "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj"
             },
-            "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj": {
-              "projectPath": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj"
-            },
-            "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj": {
-              "projectPath": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj"
+            "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj": {
+              "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj"
             }
           }
         }
@@ -6292,8 +6372,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -6313,11 +6392,19 @@
             "target": "Package",
             "version": "[9.0.0, )"
           },
+          "Microsoft.EntityFrameworkCore.SqlServer": {
+            "target": "Package",
+            "version": "[9.0.0, )"
+          },
           "Microsoft.EntityFrameworkCore.Tools": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
             "version": "[9.0.0, )"
+          },
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+            "target": "Package",
+            "version": "[1.21.0, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
@@ -6343,7 +6430,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

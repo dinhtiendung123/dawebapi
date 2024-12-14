@@ -1,0 +1,16 @@
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Untils\bin\Release\net8.0\DA.Shared.Untils.deps.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Untils\bin\Release\net8.0\DA.Shared.Untils.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Untils\bin\Release\net8.0\DA.Shared.Untils.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Untils\bin\Release\net8.0\DA.Shared.Exceptions.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Untils\bin\Release\net8.0\DA.Shared.Exceptions.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Untils\obj\Release\net8.0\DA.Shared.Untils.csproj.AssemblyReference.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Untils\obj\Release\net8.0\DA.Shared.Untils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Untils\obj\Release\net8.0\DA.Shared.Untils.AssemblyInfoInputs.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Untils\obj\Release\net8.0\DA.Shared.Untils.AssemblyInfo.cs
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Untils\obj\Release\net8.0\DA.Shared.Untils.csproj.CoreCompileInputs.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Untils\obj\Release\net8.0\DA.Shared.Untils.sourcelink.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Untils\obj\Release\net8.0\DA.Share.CEF56B10.Up2Date
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Untils\obj\Release\net8.0\DA.Shared.Untils.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Untils\obj\Release\net8.0\refint\DA.Shared.Untils.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Untils\obj\Release\net8.0\DA.Shared.Untils.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Untils\obj\Release\net8.0\ref\DA.Shared.Untils.dll

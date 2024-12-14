@@ -32,3 +32,15 @@ D:\C#\Doan\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constan
 D:\C#\Doan\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\refint\DA.Shared.Constant.dll
 D:\C#\Doan\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.pdb
 D:\C#\Doan\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\ref\DA.Shared.Constant.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Constant\bin\Debug\net8.0\DA.Shared.Constant.deps.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Constant\bin\Debug\net8.0\DA.Shared.Constant.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Constant\bin\Debug\net8.0\DA.Shared.Constant.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.AssemblyInfoInputs.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.AssemblyInfo.cs
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.csproj.CoreCompileInputs.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.sourcelink.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\refint\DA.Shared.Constant.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\DA.Shared.Constant.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.Constant\obj\Debug\net8.0\ref\DA.Shared.Constant.dll

@@ -1,0 +1,16 @@
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Domain\bin\Release\net8.0\DA.Auth.Domain.deps.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Domain\bin\Release\net8.0\DA.Auth.Domain.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Domain\bin\Release\net8.0\DA.Auth.Domain.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Domain\bin\Release\net8.0\DA.Shared.Constant.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Domain\bin\Release\net8.0\DA.Shared.Constant.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Domain\obj\Release\net8.0\DA.Auth.Domain.csproj.AssemblyReference.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Domain\obj\Release\net8.0\DA.Auth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Domain\obj\Release\net8.0\DA.Auth.Domain.AssemblyInfoInputs.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Domain\obj\Release\net8.0\DA.Auth.Domain.AssemblyInfo.cs
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Domain\obj\Release\net8.0\DA.Auth.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Domain\obj\Release\net8.0\DA.Auth.Domain.sourcelink.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Domain\obj\Release\net8.0\DA.Auth..DB4121D9.Up2Date
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Domain\obj\Release\net8.0\DA.Auth.Domain.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Domain\obj\Release\net8.0\refint\DA.Auth.Domain.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Domain\obj\Release\net8.0\DA.Auth.Domain.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Domain\obj\Release\net8.0\ref\DA.Auth.Domain.dll

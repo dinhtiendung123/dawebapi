@@ -1,7 +1,8 @@
-using DA.Auth.ApplicationService.Startup;
+﻿using DA.Auth.ApplicationService.Startup;
 using DA.Booking.ApplicationService.Startup;
 using DA.Vehicle.ApplicationService.Startup;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;

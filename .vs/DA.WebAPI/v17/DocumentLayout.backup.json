@@ -1,42 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#\\Doan\\",
+  "WorkspaceRootPath": "C:\\Users\\Dinh Tien Dung\\source\\repos\\Doan-Server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|d:\\c#\\doan\\da.webapi\\controllers\\booking\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|solutionrelative:da.webapi\\controllers\\booking\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|c:\\users\\dinh tien dung\\source\\repos\\doan-server\\da.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|solutionrelative:da.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|d:\\c#\\doan\\da.webapi\\controllers\\booking\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|solutionrelative:da.webapi\\controllers\\booking\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|d:\\c#\\doan\\da.webapi\\controllers\\booking\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|solutionrelative:da.webapi\\controllers\\booking\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|d:\\c#\\doan\\da.webapi\\controllers\\vehicle\\buscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|solutionrelative:da.webapi\\controllers\\vehicle\\buscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|d:\\c#\\doan\\da.webapi\\controllers\\vehicle\\busridecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|solutionrelative:da.webapi\\controllers\\vehicle\\busridecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|d:\\c#\\doan\\da.webapi\\controllers\\vehicle\\seatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|solutionrelative:da.webapi\\controllers\\vehicle\\seatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26EB5E64-0CA2-4F5C-A602-1DAD5FAD55E1}|Services\\Booking\\DA.Booking.ApplicationService\\DA.Booking.ApplicationService.csproj|d:\\c#\\doan\\services\\booking\\da.booking.applicationservice\\bookingmodule\\abstracts\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26EB5E64-0CA2-4F5C-A602-1DAD5FAD55E1}|Services\\Booking\\DA.Booking.ApplicationService\\DA.Booking.ApplicationService.csproj|solutionrelative:services\\booking\\da.booking.applicationservice\\bookingmodule\\abstracts\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26EB5E64-0CA2-4F5C-A602-1DAD5FAD55E1}|Services\\Booking\\DA.Booking.ApplicationService\\DA.Booking.ApplicationService.csproj|d:\\c#\\doan\\services\\booking\\da.booking.applicationservice\\bookingmodule\\abstracts\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26EB5E64-0CA2-4F5C-A602-1DAD5FAD55E1}|Services\\Booking\\DA.Booking.ApplicationService\\DA.Booking.ApplicationService.csproj|solutionrelative:services\\booking\\da.booking.applicationservice\\bookingmodule\\abstracts\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26EB5E64-0CA2-4F5C-A602-1DAD5FAD55E1}|Services\\Booking\\DA.Booking.ApplicationService\\DA.Booking.ApplicationService.csproj|d:\\c#\\doan\\services\\booking\\da.booking.applicationservice\\bookingmodule\\abstracts\\iinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26EB5E64-0CA2-4F5C-A602-1DAD5FAD55E1}|Services\\Booking\\DA.Booking.ApplicationService\\DA.Booking.ApplicationService.csproj|solutionrelative:services\\booking\\da.booking.applicationservice\\bookingmodule\\abstracts\\iinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|c:\\users\\dinh tien dung\\source\\repos\\doan-server\\da.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A03757-08B6-44DD-AB16-B58C484E71E4}|DA.WebAPI\\DA.WebAPI.csproj|solutionrelative:da.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,124 +18,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SeatController.cs",
-              "DocumentMoniker": "D:\\C#\\Doan\\DA.WebAPI\\Controllers\\Vehicle\\SeatController.cs",
-              "RelativeDocumentMoniker": "DA.WebAPI\\Controllers\\Vehicle\\SeatController.cs",
-              "ToolTip": "D:\\C#\\Doan\\DA.WebAPI\\Controllers\\Vehicle\\SeatController.cs",
-              "RelativeToolTip": "DA.WebAPI\\Controllers\\Vehicle\\SeatController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAwwAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T09:22:09.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BusRideController.cs",
-              "DocumentMoniker": "D:\\C#\\Doan\\DA.WebAPI\\Controllers\\Vehicle\\BusRideController.cs",
-              "RelativeDocumentMoniker": "DA.WebAPI\\Controllers\\Vehicle\\BusRideController.cs",
-              "ToolTip": "D:\\C#\\Doan\\DA.WebAPI\\Controllers\\Vehicle\\BusRideController.cs",
-              "RelativeToolTip": "DA.WebAPI\\Controllers\\Vehicle\\BusRideController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T09:21:22.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TicketController.cs",
-              "DocumentMoniker": "D:\\C#\\Doan\\DA.WebAPI\\Controllers\\Booking\\TicketController.cs",
-              "RelativeDocumentMoniker": "DA.WebAPI\\Controllers\\Booking\\TicketController.cs",
-              "ToolTip": "D:\\C#\\Doan\\DA.WebAPI\\Controllers\\Booking\\TicketController.cs",
-              "RelativeToolTip": "DA.WebAPI\\Controllers\\Booking\\TicketController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAIwDIAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T09:18:14.71Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dinh Tien Dung\\source\\repos\\Doan-Server\\DA.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DA.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dinh Tien Dung\\source\\repos\\Doan-Server\\DA.WebAPI\\appsettings.json",
+              "RelativeToolTip": "DA.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T19:31:46.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\C#\\Doan\\DA.WebAPI\\Controllers\\Booking\\OrderController.cs",
-              "RelativeDocumentMoniker": "DA.WebAPI\\Controllers\\Booking\\OrderController.cs",
-              "ToolTip": "D:\\C#\\Doan\\DA.WebAPI\\Controllers\\Booking\\OrderController.cs",
-              "RelativeToolTip": "DA.WebAPI\\Controllers\\Booking\\OrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dinh Tien Dung\\source\\repos\\Doan-Server\\DA.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DA.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Dinh Tien Dung\\source\\repos\\Doan-Server\\DA.WebAPI\\Program.cs",
+              "RelativeToolTip": "DA.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T09:15:55.889Z",
+              "WhenOpened": "2024-12-13T19:24:12.305Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "InvoiceController.cs",
-              "DocumentMoniker": "D:\\C#\\Doan\\DA.WebAPI\\Controllers\\Booking\\InvoiceController.cs",
-              "RelativeDocumentMoniker": "DA.WebAPI\\Controllers\\Booking\\InvoiceController.cs",
-              "ToolTip": "D:\\C#\\Doan\\DA.WebAPI\\Controllers\\Booking\\InvoiceController.cs",
-              "RelativeToolTip": "DA.WebAPI\\Controllers\\Booking\\InvoiceController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAACMAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T09:14:56.391Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BusController.cs",
-              "DocumentMoniker": "D:\\C#\\Doan\\DA.WebAPI\\Controllers\\Vehicle\\BusController.cs",
-              "RelativeDocumentMoniker": "DA.WebAPI\\Controllers\\Vehicle\\BusController.cs",
-              "ToolTip": "D:\\C#\\Doan\\DA.WebAPI\\Controllers\\Vehicle\\BusController.cs",
-              "RelativeToolTip": "DA.WebAPI\\Controllers\\Vehicle\\BusController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAwwBgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T09:13:35.913Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ITicketService.cs",
-              "DocumentMoniker": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.ApplicationService\\BookingModule\\Abstracts\\ITicketService.cs",
-              "RelativeDocumentMoniker": "Services\\Booking\\DA.Booking.ApplicationService\\BookingModule\\Abstracts\\ITicketService.cs",
-              "ToolTip": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.ApplicationService\\BookingModule\\Abstracts\\ITicketService.cs",
-              "RelativeToolTip": "Services\\Booking\\DA.Booking.ApplicationService\\BookingModule\\Abstracts\\ITicketService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T09:13:23.333Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.ApplicationService\\BookingModule\\Abstracts\\IOrderService.cs",
-              "RelativeDocumentMoniker": "Services\\Booking\\DA.Booking.ApplicationService\\BookingModule\\Abstracts\\IOrderService.cs",
-              "ToolTip": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.ApplicationService\\BookingModule\\Abstracts\\IOrderService.cs",
-              "RelativeToolTip": "Services\\Booking\\DA.Booking.ApplicationService\\BookingModule\\Abstracts\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T09:13:21.6Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IInvoiceService.cs",
-              "DocumentMoniker": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.ApplicationService\\BookingModule\\Abstracts\\IInvoiceService.cs",
-              "RelativeDocumentMoniker": "Services\\Booking\\DA.Booking.ApplicationService\\BookingModule\\Abstracts\\IInvoiceService.cs",
-              "ToolTip": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.ApplicationService\\BookingModule\\Abstracts\\IInvoiceService.cs",
-              "RelativeToolTip": "Services\\Booking\\DA.Booking.ApplicationService\\BookingModule\\Abstracts\\IInvoiceService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T09:13:19.945Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             }
           ]
         }

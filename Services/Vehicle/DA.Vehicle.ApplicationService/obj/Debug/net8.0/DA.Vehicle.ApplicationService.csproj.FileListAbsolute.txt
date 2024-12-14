@@ -59,3 +59,35 @@ D:\C#\Doan\Services\Vehicle\DA.Vehicle.ApplicationService\obj\Debug\net8.0\DA.Ve
 D:\C#\Doan\Services\Vehicle\DA.Vehicle.ApplicationService\obj\Debug\net8.0\ref\DA.Vehicle.ApplicationService.dll
 D:\C#\Doan\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Auth.Dtos.dll
 D:\C#\Doan\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Auth.Dtos.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Vehicle.ApplicationService.deps.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Vehicle.ApplicationService.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Vehicle.ApplicationService.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Auth.Dtos.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Shared.ApplicationService.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Shared.Constant.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Shared.Dtos.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Shared.Exceptions.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Shared.Untils.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Vehicle.Domain.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Vehicle.Dtos.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Vehicle.Infrastructure.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Shared.ApplicationService.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Shared.Constant.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Shared.Dtos.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Shared.Exceptions.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Shared.Untils.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Vehicle.Dtos.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Vehicle.Infrastructure.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Auth.Dtos.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\bin\Debug\net8.0\DA.Vehicle.Domain.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\obj\Debug\net8.0\DA.Vehicle.ApplicationService.csproj.AssemblyReference.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\obj\Debug\net8.0\DA.Vehicle.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\obj\Debug\net8.0\DA.Vehicle.ApplicationService.AssemblyInfoInputs.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\obj\Debug\net8.0\DA.Vehicle.ApplicationService.AssemblyInfo.cs
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\obj\Debug\net8.0\DA.Vehicle.ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\obj\Debug\net8.0\DA.Vehicle.ApplicationService.sourcelink.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\obj\Debug\net8.0\DA.Vehic.22EB1125.Up2Date
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\obj\Debug\net8.0\DA.Vehicle.ApplicationService.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\obj\Debug\net8.0\refint\DA.Vehicle.ApplicationService.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\obj\Debug\net8.0\DA.Vehicle.ApplicationService.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.ApplicationService\obj\Debug\net8.0\ref\DA.Vehicle.ApplicationService.dll

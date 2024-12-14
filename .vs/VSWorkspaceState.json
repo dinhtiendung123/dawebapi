@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DA.WebAPI",
+    "\\Services",
+    "\\Services\\Auth"
   ],
-  "SelectedNode": "\\DA.WebAPI.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -37,3 +37,23 @@ D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\refint\DA
 D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehicle.Infrastructure.pdb
 D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehicle.Infrastructure.genruntimeconfig.cache
 D:\C#\Doan\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\ref\DA.Vehicle.Infrastructure.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Infrastructure\bin\Debug\net8.0\DA.Vehicle.Infrastructure.deps.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Infrastructure\bin\Debug\net8.0\DA.Vehicle.Infrastructure.runtimeconfig.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Infrastructure\bin\Debug\net8.0\DA.Vehicle.Infrastructure.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Infrastructure\bin\Debug\net8.0\DA.Vehicle.Infrastructure.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Infrastructure\bin\Debug\net8.0\DA.Shared.Constant.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Infrastructure\bin\Debug\net8.0\DA.Vehicle.Domain.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Infrastructure\bin\Debug\net8.0\DA.Vehicle.Domain.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Infrastructure\bin\Debug\net8.0\DA.Shared.Constant.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehicle.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehicle.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehicle.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehicle.Infrastructure.AssemblyInfo.cs
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehicle.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehicle.Infrastructure.sourcelink.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehic.FFCB15D2.Up2Date
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehicle.Infrastructure.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\refint\DA.Vehicle.Infrastructure.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehicle.Infrastructure.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\DA.Vehicle.Infrastructure.genruntimeconfig.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Infrastructure\obj\Debug\net8.0\ref\DA.Vehicle.Infrastructure.dll

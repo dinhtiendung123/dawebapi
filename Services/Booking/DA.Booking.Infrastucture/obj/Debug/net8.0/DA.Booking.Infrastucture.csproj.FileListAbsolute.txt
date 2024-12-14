@@ -18,3 +18,23 @@ D:\C#\Doan\Services\Booking\DA.Booking.Infrastucture\obj\Debug\net8.0\refint\DA.
 D:\C#\Doan\Services\Booking\DA.Booking.Infrastucture\obj\Debug\net8.0\DA.Booking.Infrastucture.pdb
 D:\C#\Doan\Services\Booking\DA.Booking.Infrastucture\obj\Debug\net8.0\DA.Booking.Infrastucture.genruntimeconfig.cache
 D:\C#\Doan\Services\Booking\DA.Booking.Infrastucture\obj\Debug\net8.0\ref\DA.Booking.Infrastucture.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Infrastucture\bin\Debug\net8.0\DA.Booking.Infrastucture.deps.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Infrastucture\bin\Debug\net8.0\DA.Booking.Infrastucture.runtimeconfig.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Infrastucture\bin\Debug\net8.0\DA.Booking.Infrastucture.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Infrastucture\bin\Debug\net8.0\DA.Booking.Infrastucture.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Infrastucture\bin\Debug\net8.0\DA.Booking.Domain.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Infrastucture\bin\Debug\net8.0\DA.Shared.Constant.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Infrastucture\bin\Debug\net8.0\DA.Booking.Domain.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Infrastucture\bin\Debug\net8.0\DA.Shared.Constant.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Infrastucture\obj\Debug\net8.0\DA.Booking.Infrastucture.csproj.AssemblyReference.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Infrastucture\obj\Debug\net8.0\DA.Booking.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Infrastucture\obj\Debug\net8.0\DA.Booking.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Infrastucture\obj\Debug\net8.0\DA.Booking.Infrastucture.AssemblyInfo.cs
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Infrastucture\obj\Debug\net8.0\DA.Booking.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Infrastucture\obj\Debug\net8.0\DA.Booking.Infrastucture.sourcelink.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Infrastucture\obj\Debug\net8.0\DA.Booki.AAF9FC38.Up2Date
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Infrastucture\obj\Debug\net8.0\DA.Booking.Infrastucture.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Infrastucture\obj\Debug\net8.0\refint\DA.Booking.Infrastucture.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Infrastucture\obj\Debug\net8.0\DA.Booking.Infrastucture.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Infrastucture\obj\Debug\net8.0\DA.Booking.Infrastucture.genruntimeconfig.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Infrastucture\obj\Debug\net8.0\ref\DA.Booking.Infrastucture.dll

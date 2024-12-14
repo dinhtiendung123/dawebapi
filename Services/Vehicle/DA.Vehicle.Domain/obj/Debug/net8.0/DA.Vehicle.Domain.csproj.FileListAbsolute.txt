@@ -29,3 +29,19 @@ D:\C#\Doan\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\DA.Vehicle.Domain
 D:\C#\Doan\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\refint\DA.Vehicle.Domain.dll
 D:\C#\Doan\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\DA.Vehicle.Domain.pdb
 D:\C#\Doan\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\ref\DA.Vehicle.Domain.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Domain\bin\Debug\net8.0\DA.Vehicle.Domain.deps.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Domain\bin\Debug\net8.0\DA.Vehicle.Domain.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Domain\bin\Debug\net8.0\DA.Vehicle.Domain.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Domain\bin\Debug\net8.0\DA.Shared.Constant.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Domain\bin\Debug\net8.0\DA.Shared.Constant.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\DA.Vehicle.Domain.csproj.AssemblyReference.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\DA.Vehicle.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\DA.Vehicle.Domain.AssemblyInfoInputs.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\DA.Vehicle.Domain.AssemblyInfo.cs
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\DA.Vehicle.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\DA.Vehicle.Domain.sourcelink.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\DA.Vehic.A888918F.Up2Date
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\DA.Vehicle.Domain.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\refint\DA.Vehicle.Domain.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\DA.Vehicle.Domain.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Vehicle\DA.Vehicle.Domain\obj\Debug\net8.0\ref\DA.Vehicle.Domain.dll

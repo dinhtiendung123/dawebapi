@@ -10,3 +10,15 @@ D:\C#\Doan\Services\Booking\DA.Booking.Dtos\obj\Debug\net8.0\DA.Booking.Dtos.dll
 D:\C#\Doan\Services\Booking\DA.Booking.Dtos\obj\Debug\net8.0\refint\DA.Booking.Dtos.dll
 D:\C#\Doan\Services\Booking\DA.Booking.Dtos\obj\Debug\net8.0\DA.Booking.Dtos.pdb
 D:\C#\Doan\Services\Booking\DA.Booking.Dtos\obj\Debug\net8.0\ref\DA.Booking.Dtos.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Dtos\bin\Debug\net8.0\DA.Booking.Dtos.deps.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Dtos\bin\Debug\net8.0\DA.Booking.Dtos.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Dtos\bin\Debug\net8.0\DA.Booking.Dtos.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Dtos\obj\Debug\net8.0\DA.Booking.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Dtos\obj\Debug\net8.0\DA.Booking.Dtos.AssemblyInfoInputs.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Dtos\obj\Debug\net8.0\DA.Booking.Dtos.AssemblyInfo.cs
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Dtos\obj\Debug\net8.0\DA.Booking.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Dtos\obj\Debug\net8.0\DA.Booking.Dtos.sourcelink.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Dtos\obj\Debug\net8.0\DA.Booking.Dtos.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Dtos\obj\Debug\net8.0\refint\DA.Booking.Dtos.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Dtos\obj\Debug\net8.0\DA.Booking.Dtos.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Dtos\obj\Debug\net8.0\ref\DA.Booking.Dtos.dll

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Doan\\DA.WebAPI\\DA.WebAPI.csproj": {}
+    "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\DA.WebAPI\\DA.WebAPI.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Doan\\DA.WebAPI\\DA.WebAPI.csproj": {
+    "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\DA.WebAPI\\DA.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Doan\\DA.WebAPI\\DA.WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\DA.WebAPI\\DA.WebAPI.csproj",
         "projectName": "DA.WebAPI",
-        "projectPath": "D:\\C#\\Doan\\DA.WebAPI\\DA.WebAPI.csproj",
-        "packagesPath": "C:\\Users\\Bop\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Doan\\DA.WebAPI\\obj\\",
+        "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\DA.WebAPI\\DA.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Dinh Tien Dung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\DA.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dinh Tien Dung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,35 +28,32 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.ApplicationService\\DA.Booking.ApplicationService.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.ApplicationService\\DA.Booking.ApplicationService.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.ApplicationService\\DA.Booking.ApplicationService.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.ApplicationService\\DA.Booking.ApplicationService.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Domain\\DA.Booking.Domain.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Domain\\DA.Booking.Domain.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Domain\\DA.Booking.Domain.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Domain\\DA.Booking.Domain.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Dtos\\DA.Booking.Dtos.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Dtos\\DA.Booking.Dtos.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Dtos\\DA.Booking.Dtos.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Dtos\\DA.Booking.Dtos.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj"
-              },
-              "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj"
               }
             }
           }
@@ -74,8 +67,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -95,11 +87,19 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.21.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -125,25 +125,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj": {
+    "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj",
+        "projectUniqueName": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj",
         "projectName": "DA.Auth.ApplicationService",
-        "projectPath": "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj",
-        "packagesPath": "C:\\Users\\Bop\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.ApplicationService\\obj\\",
+        "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.ApplicationService\\DA.Auth.ApplicationService.csproj",
+        "packagesPath": "C:\\Users\\Dinh Tien Dung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.ApplicationService\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dinh Tien Dung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -157,23 +153,23 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj"
               }
             }
           }
@@ -187,8 +183,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -212,25 +207,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj": {
+    "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj",
         "projectName": "DA.Auth.Domain",
-        "projectPath": "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj",
-        "packagesPath": "C:\\Users\\Bop\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj",
+        "packagesPath": "C:\\Users\\Dinh Tien Dung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dinh Tien Dung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -244,8 +235,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj"
               }
             }
           }
@@ -259,8 +250,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -281,25 +271,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj": {
+    "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj",
+        "projectUniqueName": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj",
         "projectName": "DA.Auth.Dtos",
-        "projectPath": "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj",
-        "packagesPath": "C:\\Users\\Bop\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Dtos\\obj\\",
+        "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj",
+        "packagesPath": "C:\\Users\\Dinh Tien Dung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Dtos\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dinh Tien Dung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -324,8 +310,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -346,25 +331,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj": {
+    "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj",
         "projectName": "DA.Auth.Infrastructure",
-        "projectPath": "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Bop\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Infrastructure\\DA.Auth.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Dinh Tien Dung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dinh Tien Dung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -378,8 +359,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Domain\\DA.Auth.Domain.csproj"
               }
             }
           }
@@ -393,8 +374,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -431,25 +411,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.ApplicationService\\DA.Booking.ApplicationService.csproj": {
+    "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.ApplicationService\\DA.Booking.ApplicationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.ApplicationService\\DA.Booking.ApplicationService.csproj",
+        "projectUniqueName": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.ApplicationService\\DA.Booking.ApplicationService.csproj",
         "projectName": "DA.Booking.ApplicationService",
-        "projectPath": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.ApplicationService\\DA.Booking.ApplicationService.csproj",
-        "packagesPath": "C:\\Users\\Bop\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.ApplicationService\\obj\\",
+        "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.ApplicationService\\DA.Booking.ApplicationService.csproj",
+        "packagesPath": "C:\\Users\\Dinh Tien Dung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.ApplicationService\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dinh Tien Dung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -463,26 +439,26 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Dtos\\DA.Booking.Dtos.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Dtos\\DA.Booking.Dtos.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Dtos\\DA.Booking.Dtos.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Dtos\\DA.Booking.Dtos.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Infrastucture\\DA.Booking.Infrastucture.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Infrastucture\\DA.Booking.Infrastucture.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Infrastucture\\DA.Booking.Infrastucture.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Infrastucture\\DA.Booking.Infrastucture.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj"
               }
             }
           }
@@ -496,8 +472,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -531,25 +506,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Domain\\DA.Booking.Domain.csproj": {
+    "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Domain\\DA.Booking.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Domain\\DA.Booking.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Domain\\DA.Booking.Domain.csproj",
         "projectName": "DA.Booking.Domain",
-        "projectPath": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Domain\\DA.Booking.Domain.csproj",
-        "packagesPath": "C:\\Users\\Bop\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Domain\\DA.Booking.Domain.csproj",
+        "packagesPath": "C:\\Users\\Dinh Tien Dung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dinh Tien Dung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -563,8 +534,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj"
               }
             }
           }
@@ -578,8 +549,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -600,25 +570,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Dtos\\DA.Booking.Dtos.csproj": {
+    "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Dtos\\DA.Booking.Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Dtos\\DA.Booking.Dtos.csproj",
+        "projectUniqueName": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Dtos\\DA.Booking.Dtos.csproj",
         "projectName": "DA.Booking.Dtos",
-        "projectPath": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Dtos\\DA.Booking.Dtos.csproj",
-        "packagesPath": "C:\\Users\\Bop\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Dtos\\obj\\",
+        "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Dtos\\DA.Booking.Dtos.csproj",
+        "packagesPath": "C:\\Users\\Dinh Tien Dung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Dtos\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dinh Tien Dung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -643,8 +609,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -665,25 +630,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Infrastucture\\DA.Booking.Infrastucture.csproj": {
+    "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Infrastucture\\DA.Booking.Infrastucture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Infrastucture\\DA.Booking.Infrastucture.csproj",
+        "projectUniqueName": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Infrastucture\\DA.Booking.Infrastucture.csproj",
         "projectName": "DA.Booking.Infrastucture",
-        "projectPath": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Infrastucture\\DA.Booking.Infrastucture.csproj",
-        "packagesPath": "C:\\Users\\Bop\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Infrastucture\\obj\\",
+        "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Infrastucture\\DA.Booking.Infrastucture.csproj",
+        "packagesPath": "C:\\Users\\Dinh Tien Dung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Infrastucture\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dinh Tien Dung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -697,8 +658,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Domain\\DA.Booking.Domain.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Booking\\DA.Booking.Domain\\DA.Booking.Domain.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Domain\\DA.Booking.Domain.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Booking\\DA.Booking.Domain\\DA.Booking.Domain.csproj"
               }
             }
           }
@@ -712,8 +673,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -750,25 +710,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj": {
+    "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj",
+        "projectUniqueName": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj",
         "projectName": "DA.Shared.ApplicationService",
-        "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj",
-        "packagesPath": "C:\\Users\\Bop\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.ApplicationService\\obj\\",
+        "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj",
+        "packagesPath": "C:\\Users\\Dinh Tien Dung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.ApplicationService\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dinh Tien Dung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -782,11 +738,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Auth\\DA.Auth.Dtos\\DA.Auth.Dtos.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj"
               }
             }
           }
@@ -800,8 +756,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -822,25 +777,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj": {
+    "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj",
+        "projectUniqueName": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj",
         "projectName": "DA.Shared.Constant",
-        "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj",
-        "packagesPath": "C:\\Users\\Bop\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Constant\\obj\\",
+        "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj",
+        "packagesPath": "C:\\Users\\Dinh Tien Dung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Constant\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dinh Tien Dung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -865,8 +816,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -887,25 +837,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj": {
+    "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj",
+        "projectUniqueName": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj",
         "projectName": "DA.Shared.Dtos",
-        "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj",
-        "packagesPath": "C:\\Users\\Bop\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Dtos\\obj\\",
+        "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj",
+        "packagesPath": "C:\\Users\\Dinh Tien Dung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Dtos\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dinh Tien Dung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -930,8 +876,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -958,25 +903,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj": {
+    "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj",
+        "projectUniqueName": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj",
         "projectName": "DA.Shared.Exceptions",
-        "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj",
-        "packagesPath": "C:\\Users\\Bop\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Exceptions\\obj\\",
+        "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\Dinh Tien Dung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Exceptions\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dinh Tien Dung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -1001,8 +942,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -1023,25 +963,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj": {
+    "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj",
+        "projectUniqueName": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj",
         "projectName": "DA.Shared.Untils",
-        "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj",
-        "packagesPath": "C:\\Users\\Bop\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Untils\\obj\\",
+        "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj",
+        "packagesPath": "C:\\Users\\Dinh Tien Dung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Untils\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dinh Tien Dung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -1055,8 +991,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj"
               }
             }
           }
@@ -1070,8 +1006,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -1098,25 +1033,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj": {
+    "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj",
+        "projectUniqueName": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj",
         "projectName": "DA.Vehicle.ApplicationService",
-        "projectPath": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj",
-        "packagesPath": "C:\\Users\\Bop\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\obj\\",
+        "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\DA.Vehicle.ApplicationService.csproj",
+        "packagesPath": "C:\\Users\\Dinh Tien Dung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.ApplicationService\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dinh Tien Dung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -1130,26 +1061,26 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.ApplicationService\\DA.Shared.ApplicationService.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Dtos\\DA.Shared.Dtos.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Exceptions\\DA.Shared.Exceptions.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Untils\\DA.Shared.Untils.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj"
               },
-              "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\DA.Vehicle.Infrastructure.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\DA.Vehicle.Infrastructure.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\DA.Vehicle.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\DA.Vehicle.Infrastructure.csproj"
               }
             }
           }
@@ -1163,8 +1094,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -1188,25 +1118,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj": {
+    "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj",
         "projectName": "DA.Vehicle.Domain",
-        "projectPath": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj",
-        "packagesPath": "C:\\Users\\Bop\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj",
+        "packagesPath": "C:\\Users\\Dinh Tien Dung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dinh Tien Dung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -1220,8 +1146,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Shared\\DA.Shared.Constant\\DA.Shared.Constant.csproj"
               }
             }
           }
@@ -1235,8 +1161,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -1257,25 +1182,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj": {
+    "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj",
+        "projectUniqueName": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj",
         "projectName": "DA.Vehicle.Dtos",
-        "projectPath": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj",
-        "packagesPath": "C:\\Users\\Bop\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Dtos\\obj\\",
+        "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Dtos\\DA.Vehicle.Dtos.csproj",
+        "packagesPath": "C:\\Users\\Dinh Tien Dung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Dtos\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dinh Tien Dung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -1300,8 +1221,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -1322,25 +1242,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\DA.Vehicle.Infrastructure.csproj": {
+    "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\DA.Vehicle.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\DA.Vehicle.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\DA.Vehicle.Infrastructure.csproj",
         "projectName": "DA.Vehicle.Infrastructure",
-        "projectPath": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\DA.Vehicle.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Bop\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\DA.Vehicle.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Dinh Tien Dung\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dinh Tien Dung\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -1354,8 +1270,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj": {
-                "projectPath": "D:\\C#\\Doan\\Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj"
+              "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj": {
+                "projectPath": "C:\\Users\\Dinh Tien Dung\\Source\\Repos\\Doan-Server\\Services\\Vehicle\\DA.Vehicle.Domain\\DA.Vehicle.Domain.csproj"
               }
             }
           }
@@ -1369,8 +1285,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -1407,7 +1322,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

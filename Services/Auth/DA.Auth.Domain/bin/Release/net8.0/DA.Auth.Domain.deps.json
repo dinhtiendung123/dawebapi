@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DA.Auth.Domain/1.0.0": {
+        "dependencies": {
+          "DA.Shared.Constant": "1.0.0"
+        },
+        "runtime": {
+          "DA.Auth.Domain.dll": {}
+        }
+      },
+      "DA.Shared.Constant/1.0.0": {
+        "runtime": {
+          "DA.Shared.Constant.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DA.Auth.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DA.Shared.Constant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

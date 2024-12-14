@@ -1,0 +1,16 @@
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Domain\bin\Release\net8.0\DA.Booking.Domain.deps.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Domain\bin\Release\net8.0\DA.Booking.Domain.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Domain\bin\Release\net8.0\DA.Booking.Domain.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Domain\bin\Release\net8.0\DA.Shared.Constant.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Domain\bin\Release\net8.0\DA.Shared.Constant.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Domain\obj\Release\net8.0\DA.Booking.Domain.csproj.AssemblyReference.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Domain\obj\Release\net8.0\DA.Booking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Domain\obj\Release\net8.0\DA.Booking.Domain.AssemblyInfoInputs.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Domain\obj\Release\net8.0\DA.Booking.Domain.AssemblyInfo.cs
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Domain\obj\Release\net8.0\DA.Booking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Domain\obj\Release\net8.0\DA.Booking.Domain.sourcelink.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Domain\obj\Release\net8.0\DA.Booki.B1772ED4.Up2Date
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Domain\obj\Release\net8.0\DA.Booking.Domain.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Domain\obj\Release\net8.0\refint\DA.Booking.Domain.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Domain\obj\Release\net8.0\DA.Booking.Domain.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Booking\DA.Booking.Domain\obj\Release\net8.0\ref\DA.Booking.Domain.dll

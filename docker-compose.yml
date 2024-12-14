@@ -1,0 +1,32 @@
+
+services:
+  da.webapi:
+    image: ${DOCKER_REGISTRY-}dawebapi
+    build:
+      context: .
+      dockerfile: DA.WebAPI/Dockerfile
+    depends_on:
+      - sqldb
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+    ports:
+      - "8080:80"
+    networks:
+      - app_network
+
+  sqldb:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqldb
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Nemesis123!
+      - MSSQL_PID=Express
+    ports:
+      - "1433:1433"
+    networks:
+      - app_network
+
+networks:
+  app_network:
+    driver: bridge
+

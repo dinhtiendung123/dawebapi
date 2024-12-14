@@ -38,3 +38,21 @@ D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\bin\Debug\net8.0\DA.Auth
 D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\bin\Debug\net8.0\DA.Vehicle.Dtos.pdb
 D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.csproj.AssemblyReference.cache
 D:\C#\Doan\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Share.DB15E634.Up2Date
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.ApplicationService\bin\Debug\net8.0\DA.Shared.ApplicationService.deps.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.ApplicationService\bin\Debug\net8.0\DA.Shared.ApplicationService.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.ApplicationService\bin\Debug\net8.0\DA.Shared.ApplicationService.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.ApplicationService\bin\Debug\net8.0\DA.Auth.Dtos.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.ApplicationService\bin\Debug\net8.0\DA.Vehicle.Dtos.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.ApplicationService\bin\Debug\net8.0\DA.Auth.Dtos.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.ApplicationService\bin\Debug\net8.0\DA.Vehicle.Dtos.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.csproj.AssemblyReference.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.AssemblyInfoInputs.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.AssemblyInfo.cs
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.sourcelink.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Share.DB15E634.Up2Date
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\refint\DA.Shared.ApplicationService.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\DA.Shared.ApplicationService.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Shared\DA.Shared.ApplicationService\obj\Debug\net8.0\ref\DA.Shared.ApplicationService.dll

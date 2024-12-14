@@ -32,3 +32,15 @@ D:\C#\Doan\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.dll
 D:\C#\Doan\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\refint\DA.Auth.Dtos.dll
 D:\C#\Doan\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.pdb
 D:\C#\Doan\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\ref\DA.Auth.Dtos.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Dtos\bin\Debug\net8.0\DA.Auth.Dtos.deps.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Dtos\bin\Debug\net8.0\DA.Auth.Dtos.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Dtos\bin\Debug\net8.0\DA.Auth.Dtos.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.AssemblyInfoInputs.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.AssemblyInfo.cs
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.sourcelink.json
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\refint\DA.Auth.Dtos.dll
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\DA.Auth.Dtos.pdb
+C:\Users\Dinh Tien Dung\source\repos\Doan-Server\Services\Auth\DA.Auth.Dtos\obj\Debug\net8.0\ref\DA.Auth.Dtos.dll

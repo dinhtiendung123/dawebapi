@@ -31,23 +31,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DA.Shared.Dtos", "Services\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Vehicle", "Vehicle", "{22076285-3BED-4A23-8D0C-6E993E400980}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DA.Vehicle.ApplicationService", "Services\Vehicle\DA.Vehicle.ApplicationService\DA.Vehicle.ApplicationService.csproj", "{B8B79D7E-CE43-4E0B-BDB4-8C698834DE1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DA.Vehicle.ApplicationService", "Services\Vehicle\DA.Vehicle.ApplicationService\DA.Vehicle.ApplicationService.csproj", "{B8B79D7E-CE43-4E0B-BDB4-8C698834DE1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DA.Vehicle.Dtos", "Services\Vehicle\DA.Vehicle.Dtos\DA.Vehicle.Dtos.csproj", "{4AB6BEA7-2691-4B5D-96FE-700F018CC5D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DA.Vehicle.Dtos", "Services\Vehicle\DA.Vehicle.Dtos\DA.Vehicle.Dtos.csproj", "{4AB6BEA7-2691-4B5D-96FE-700F018CC5D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DA.Vehicle.Domain", "Services\Vehicle\DA.Vehicle.Domain\DA.Vehicle.Domain.csproj", "{D72844AD-1D21-4BF3-B819-020A3B1BD0B6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DA.Vehicle.Infrastructure", "Services\Vehicle\DA.Vehicle.Infrastructure\DA.Vehicle.Infrastructure.csproj", "{6829A11A-8C5E-4A27-A0F6-60784108AE08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DA.Vehicle.Infrastructure", "Services\Vehicle\DA.Vehicle.Infrastructure\DA.Vehicle.Infrastructure.csproj", "{6829A11A-8C5E-4A27-A0F6-60784108AE08}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Booking", "Booking", "{B3746640-9E43-4ACE-888B-C01BBEC8A852}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DA.Booking.ApplicationService", "Services\Booking\DA.Booking.ApplicationService\DA.Booking.ApplicationService.csproj", "{26EB5E64-0CA2-4F5C-A602-1DAD5FAD55E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DA.Booking.ApplicationService", "Services\Booking\DA.Booking.ApplicationService\DA.Booking.ApplicationService.csproj", "{26EB5E64-0CA2-4F5C-A602-1DAD5FAD55E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DA.Booking.Domain", "Services\Booking\DA.Booking.Domain\DA.Booking.Domain.csproj", "{F270FE54-4B5E-4B93-915F-BCFADF6CF331}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DA.Booking.Domain", "Services\Booking\DA.Booking.Domain\DA.Booking.Domain.csproj", "{F270FE54-4B5E-4B93-915F-BCFADF6CF331}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DA.Booking.Dtos", "Services\Booking\DA.Booking.Dtos\DA.Booking.Dtos.csproj", "{3AF9EF1A-90E0-4C16-94ED-E5E199187A78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DA.Booking.Dtos", "Services\Booking\DA.Booking.Dtos\DA.Booking.Dtos.csproj", "{3AF9EF1A-90E0-4C16-94ED-E5E199187A78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DA.Booking.Infrastucture", "Services\Booking\DA.Booking.Infrastucture\DA.Booking.Infrastucture.csproj", "{B79EDF4C-6933-428B-B4FA-6FAF2CABEAE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DA.Booking.Infrastucture", "Services\Booking\DA.Booking.Infrastucture\DA.Booking.Infrastucture.csproj", "{B79EDF4C-6933-428B-B4FA-6FAF2CABEAE9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DA.Vehicle.Domain", "Services\Vehicle\DA.Vehicle.Domain\DA.Vehicle.Domain.csproj", "{BDC7734A-C5AF-40C4-ABBD-D900B34FEE62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -103,10 +103,6 @@ Global
 		{4AB6BEA7-2691-4B5D-96FE-700F018CC5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AB6BEA7-2691-4B5D-96FE-700F018CC5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AB6BEA7-2691-4B5D-96FE-700F018CC5D9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D72844AD-1D21-4BF3-B819-020A3B1BD0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D72844AD-1D21-4BF3-B819-020A3B1BD0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D72844AD-1D21-4BF3-B819-020A3B1BD0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D72844AD-1D21-4BF3-B819-020A3B1BD0B6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6829A11A-8C5E-4A27-A0F6-60784108AE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6829A11A-8C5E-4A27-A0F6-60784108AE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6829A11A-8C5E-4A27-A0F6-60784108AE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -127,6 +123,10 @@ Global
 		{B79EDF4C-6933-428B-B4FA-6FAF2CABEAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B79EDF4C-6933-428B-B4FA-6FAF2CABEAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B79EDF4C-6933-428B-B4FA-6FAF2CABEAE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC7734A-C5AF-40C4-ABBD-D900B34FEE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC7734A-C5AF-40C4-ABBD-D900B34FEE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC7734A-C5AF-40C4-ABBD-D900B34FEE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC7734A-C5AF-40C4-ABBD-D900B34FEE62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -146,13 +146,13 @@ Global
 		{22076285-3BED-4A23-8D0C-6E993E400980} = {E646A7AF-9C92-4CA8-B89E-E8F46942F6C9}
 		{B8B79D7E-CE43-4E0B-BDB4-8C698834DE1C} = {22076285-3BED-4A23-8D0C-6E993E400980}
 		{4AB6BEA7-2691-4B5D-96FE-700F018CC5D9} = {22076285-3BED-4A23-8D0C-6E993E400980}
-		{D72844AD-1D21-4BF3-B819-020A3B1BD0B6} = {22076285-3BED-4A23-8D0C-6E993E400980}
 		{6829A11A-8C5E-4A27-A0F6-60784108AE08} = {22076285-3BED-4A23-8D0C-6E993E400980}
 		{B3746640-9E43-4ACE-888B-C01BBEC8A852} = {E646A7AF-9C92-4CA8-B89E-E8F46942F6C9}
 		{26EB5E64-0CA2-4F5C-A602-1DAD5FAD55E1} = {B3746640-9E43-4ACE-888B-C01BBEC8A852}
 		{F270FE54-4B5E-4B93-915F-BCFADF6CF331} = {B3746640-9E43-4ACE-888B-C01BBEC8A852}
 		{3AF9EF1A-90E0-4C16-94ED-E5E199187A78} = {B3746640-9E43-4ACE-888B-C01BBEC8A852}
 		{B79EDF4C-6933-428B-B4FA-6FAF2CABEAE9} = {B3746640-9E43-4ACE-888B-C01BBEC8A852}
+		{BDC7734A-C5AF-40C4-ABBD-D900B34FEE62} = {22076285-3BED-4A23-8D0C-6E993E400980}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {438E9349-844E-4784-9ED5-3A0B9C4C8BE7}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DA.Booking.Dtos/1.0.0": {
+        "runtime": {
+          "DA.Booking.Dtos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DA.Booking.Dtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
